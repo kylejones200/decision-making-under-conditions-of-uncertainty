@@ -1,7 +1,7 @@
 # Decision Making under Conditions of Uncertainty
 
-**Published:** 2025-06-17
-**Medium:** [https://medium.com/@kyle-t-jones/decision-making-under-conditions-of-uncertainty-bee286e0d1b9](https://medium.com/@kyle-t-jones/decision-making-under-conditions-of-uncertainty-bee286e0d1b9)
+Published: 2025-06-17
+Medium: [https://medium.com/@kyle-t-jones/decision-making-under-conditions-of-uncertainty-bee286e0d1b9](https://medium.com/@kyle-t-jones/decision-making-under-conditions-of-uncertainty-bee286e0d1b9)
 
 ## About
 
